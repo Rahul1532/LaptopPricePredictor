@@ -1,7 +1,7 @@
 "# LaptopPricePredictor" 
 Laptop Price Predictor
 
-Introducing our innovative Laptop Price Predictor, a dynamic web application powered by R programming, HTML, CSS, and JavaScript. This predictive tool utilizes advanced machine learning algorithms to analyze various features of laptops, providing users with accurate price estimations. The seamless integration of R programming ensures robust statistical modeling for precise predictions.
+Introducing the innovative Laptop Price Predictor, a dynamic web application powered by R programming, HTML, CSS, and JavaScript. This predictive tool utilizes advanced machine learning algorithms to analyze various features of laptops, providing users with accurate price estimations. The seamless integration of R programming ensures robust statistical modeling for precise predictions.
 
 Key Features:
 
